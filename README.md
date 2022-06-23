@@ -1,10 +1,10 @@
 <h1>Hi there ✌🏽</h1>
 <li>🌱 Atualmente estou participando do bootcamp SANTANDER full stack</li>
 <hr>
-<div class="painel" align="center">
+<div class="painel" align="center" style="display: inline_block">
     <a href="https://www.linkedin.com/in/felipecesargm" target="_blank">
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=felipecesargm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="70%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecesargm&layout=compact&langs_count=7&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecesargm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h4>Tecnologias que tenho interesse:</h4>
 <div class="linguagens" style="display: inline_block">
