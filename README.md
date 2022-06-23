@@ -1,6 +1,6 @@
-### Hi there ✌🏽
+# Hi there ✌🏽
 
-- 🌱 Atualmente estou parciticpando do bootcamp SANTANDER full stack
+- 🌱 Atualmente estou participando do bootcamp SANTANDER full stack
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipecesargm">
