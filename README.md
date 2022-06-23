@@ -3,8 +3,8 @@
 <hr>
 <div class="painel" align="center">
     <a href="https://www.linkedin.com/in/felipecesargm" target="_blank">
-    <img height="185em" width="300em" src="https://github-readme-stats.vercel.app/api?username=felipecesargm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecesargm&layout=compact&langs_count=7&theme=dark"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=felipecesargm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="185em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecesargm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h4>Tecnologias que tenho interesse:</h4>
 <div class="linguagens" style="display: inline_block">
