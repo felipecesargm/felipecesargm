@@ -1,4 +1,4 @@
-<h1>Hello. World! ✌🏽</h1>
+<h1>Hello, World! ✌🏽</h1>
 <li>🌱 Atualmente estou participando do bootcamp SANTANDER full stack</li>
 <hr>
 <div class="painel" align="center">
