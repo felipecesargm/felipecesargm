@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=code&size=15&duration=6000&color=008B8B&lines=Hello%2C+World+!!!+%E2%9C%8C%F0%9F%8F%BD)](https://git.io/typing-svg)
 <h1>Hello, World! ✌🏽</h1>
 <li>🌱 Atualmente estou participando do bootcamp SANTANDER full stack</li>
 <hr>
