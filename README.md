@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=27&duration=4000&color=008B8B&vCenter=true&width=250&height=40&lines=Hello%20+World!!!+%20%20%20%20%20)](https://git.io/typing-svg)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height= "25px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height= "50px">
 <li>🌱 Atualmente estou participando do bootcamp SANTANDER full stack</li>
 <hr>
 <div align="center">
