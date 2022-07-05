@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=27&duration=3000&color=008B8B&vCenter=true&width=250&height=40&lines=Hello%2C+World!!!+     )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=27&duration=4000&color=008B8B&vCenter=true&width=250&height=40&lines=Hello%2C+World!!!+  )](https://git.io/typing-svg)
 <li>🌱 Atualmente estou participando do bootcamp SANTANDER full stack</li>
 <hr>
 <div align="center">
