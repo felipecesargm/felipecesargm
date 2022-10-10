@@ -2,7 +2,7 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height= "50px"> -->   
 
 <h3>Sobre mim:</h3>
-<li>🌱 Estudante de Ciências da Computação.</li>
+<li>🌱 Estudante de Ciência da Computação.</li>
 <li>📈 Gosto muito de investimentos e do mercado financeiro;</li>
 <li>📖 De ler sobre: estoicismo, desenvolvimento pessoal, aventuras, ficção e sempre me desafio a aprender coisas novas;</li>
 <li>🌳 Também amo estar em contato com a natureza;</li>
