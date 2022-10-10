@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=27&duration=4000&color=008B8B&vCenter=true&width=250&height=40&lines=Hello,%20+World!!!%20+)](https://git.io/typing-svg)
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height= "50px"> -->   
 
-<h4>Sobre mim:</h4>
+<h3>Sobre mim:</h3>
 <li>🌱 Estudante de Ciências da Computação.</li>
 <li>📈 Gosto muito de investimentos e do mercado financeiro;</li>
 <li>📖 De ler sobre: estoicismo, desenvolvimento pessoal, aventuras, ficção e sempre me desafio a aprender coisas novas;</li>
