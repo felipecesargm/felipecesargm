@@ -6,7 +6,7 @@
 <li>📈 Gosto muito de investimentos e do mercado financeiro;</li>
 <li>📖 De ler sobre: estoicismo, desenvolvimento pessoal, aventuras, ficção e sempre me desafio a aprender coisas novas;</li>
 <li>🌳 Também amo estar em contato com a natureza;</li>
-<li>🎮 De jogos mobile e às vezes arrisco algumas partidas de xadrez.</li>
+<li>🎮 De alguns jogos e às vezes arrisco algumas partidas de xadrez, mas na maior parte das vezes em que jogo, sou o Guardião da Última Cidade</li>
 
 <hr>
 <div align="center">
