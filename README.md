@@ -2,7 +2,7 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height= "50px"> -->   
 
 <h3>Sobre mim:</h3>
-<li>🌱 Estudante de Ciência da Computação.</li>
+<li>🌱 Atualmente no 7º semestre no curso de Ciência da Computação.</li>
 <li>📈 Gosto muito de investimentos e do mercado financeiro;</li>
 <li>📖 De ler sobre: estoicismo, desenvolvimento pessoal, aventuras, ficção e sempre me desafio a aprender coisas novas;</li>
 <li>🌳 Também amo estar em contato com a natureza;</li>
@@ -21,9 +21,9 @@
     <img align="center" alt="Felipe-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Felipe-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Felipe-Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Felipe-Ts" height="30" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">    
-    <!-- <img align="center" alt="Felipe-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Felipe-Csharp" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->    
+    <img align="center" alt="Felipe-Java" height="30" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">    
+    <img align="center" alt="Felipe-React" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <!-- <img align="center" alt="Felipe-Csharp" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> >     -->
 </div>
 <hr>
 <div class="contato style="display: inline_block">
